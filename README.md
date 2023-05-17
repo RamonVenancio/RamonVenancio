@@ -23,5 +23,5 @@
  [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-ven%C3%A2ncio-5b18b7121/)
  
                                                                                     
- ![Snake animation](https://github.com/RamonVenancio/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RamonVenancio)
  
