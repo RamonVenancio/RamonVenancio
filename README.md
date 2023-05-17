@@ -12,9 +12,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node" height="40" width="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png">
   <img align="center" alt=-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonVenancio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
  
   ## 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4monv/)
