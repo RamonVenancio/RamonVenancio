@@ -16,7 +16,7 @@
   ## 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4monv/)
  [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-ven%C3%A2ncio-5b18b7121/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfttZfmCcQGgFxFRBcjbJXWdQrGzNcNMlKvfZBrHVWvrRHnCBcXClCtCSpCMKtwjvHSFlq)
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/activities/Ramon%20Venancio#0490)
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamonVenancio)
                                                                                     
  
